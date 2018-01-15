@@ -1,5 +1,5 @@
 {
-	"name": "moment-timezone",
+	"name": "dangtienngoc/moment-timezone",
 	"version": "0.5.14",
 	"description": "Parse and display moments in any timezone.",
 	"homepage": "http://momentjs.com/timezone/",
